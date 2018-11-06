@@ -5,7 +5,7 @@ _site/
 .jekyll-metadata
 
 
-### OSX ###
+# mac os #
 .DS_Store
 .AppleDouble
 .LSOverride
