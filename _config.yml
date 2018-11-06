@@ -1,0 +1,48 @@
+# Basic Info
+title: 嘉晨同学
+subtitle: 没有记录就没有发生
+welcome_message: <a href="http://www.fengjiachen.cn" target="_blank">Home Page</a>
+description: 如果你想关注些有趣的代码、照片和文字，那么请继续吧。
+creator: <a href="http://www.fengjiachen.cn">@嘉晨同学</a>
+
+url: "www.fengjiachen.cn"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+# comment:
+#     disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    nickname: 嘉晨同学
+    weibo: u/2813122022
+    github: CapFeng
+    mail: buaa_fengjiachen@foxmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
