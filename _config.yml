@@ -17,8 +17,8 @@ highlighter: rouge
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客
-    description: Visit blog
+    title: Continue
+    description: continue and enjoy
 
 # Navigation buttons in the front page.
 nav:
@@ -39,7 +39,7 @@ paginate_path: "page/:num/"
 social:
     nickname: 嘉晨同学
     weibo: u/2813122022
-    github: CapFeng
+    github: fengjiachen
     mail: buaa_fengjiachen@foxmail.com
 
 # Google Analytics
