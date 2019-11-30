@@ -30,14 +30,10 @@ plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
-# Comment
-# comment:
-#     disqus: vno-jekyll
-    # duoshuo: 
-    
+
 # Social
 social:
-    nickname: 嘉晨同学
+    nickname: 加乘同学
     weibo: u/2813122022
     github: fengjiachen
     mail: buaa_fengjiachen@foxmail.com
